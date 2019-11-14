@@ -13,7 +13,6 @@ h1 {
   font-size: 30px;
   font-weight: 900;
   line-height: 1.33;
-  color: #172735;
   margin-bottom: 32px;
 }
 
@@ -21,8 +20,12 @@ h2 {
   font-size: 26px;
   font-weight: 700;
   line-height: 1.38;
-  color: #172735;
   margin-bottom: 24px;
+}
+
+h1, h2 {
+  color: #172735;
+  text-align: center;
 }
 
 header,
@@ -36,4 +39,13 @@ footer {
 
 .testimonial {
   background-color: rgba(231, 233, 234, 0.3);
+}
+
+.contact {
+  background-color: #172735;
+  color: white;
+}
+
+.contact h1 {
+  color: white;
 }
