@@ -76,3 +76,11 @@ footer {
   margin-right: auto;
   margin-left: 0;
 }
+
+/* INTRO */
+
+.two-column {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 54px; 
+}
