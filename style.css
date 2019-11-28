@@ -60,3 +60,19 @@ footer {
   margin-right: auto;
 }
 
+/* NAVIGATION */
+
+.navigation {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navigation a {
+  padding: 11px 22px;
+  margin-left: 4px;
+}
+
+.navigation .logo {
+  margin-right: auto;
+  margin-left: 0;
+}
