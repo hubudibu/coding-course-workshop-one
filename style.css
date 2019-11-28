@@ -5,7 +5,9 @@ body {
   line-height: 1.5;
 }
 
-p {
+/* TEXT */
+
+p, ul {
   margin-bottom: 1.5em;
 }
 
@@ -28,6 +30,8 @@ h1, h2 {
   text-align: center;
 }
 
+/* SECTIONS  */
+
 header,
 section,
 footer {
@@ -49,3 +53,10 @@ footer {
 .contact h1 {
   color: white;
 }
+
+.wrap {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
