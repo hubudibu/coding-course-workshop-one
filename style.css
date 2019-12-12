@@ -70,6 +70,7 @@ footer {
 .navigation a {
   padding: 11px 22px;
   margin-left: 4px;
+  text-decoration: none;
 }
 
 .navigation a:hover {
