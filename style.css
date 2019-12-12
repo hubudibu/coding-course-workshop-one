@@ -60,6 +60,18 @@ footer {
   margin-right: auto;
 }
 
+/* HEADER */
+
+header {
+  background-color: #172735;
+  background-image: url("assets/top_bg.png");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: cover;
+  color: white;
+  padding-bottom: 310px;
+}
+
 /* NAVIGATION */
 
 .navigation {
@@ -71,6 +83,7 @@ footer {
   padding: 11px 22px;
   margin-left: 4px;
   text-decoration: none;
+  color: white;
 }
 
 .navigation a:hover {
