@@ -30,6 +30,17 @@ h1, h2 {
   text-align: center;
 }
 
+/* IMAGES */
+
+img {
+  width: 100%;
+}
+
+.rounded-image {
+  border-radius: 8px;
+  box-shadow: 0px 20px 20px rgba(0, 0, 0, 20%);
+}
+
 /* SECTIONS  */
 
 header,
