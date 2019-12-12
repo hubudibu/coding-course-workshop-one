@@ -149,4 +149,8 @@ svg {
     grid-template-columns: 1fr 1fr;
     gap: 54px; 
   }
+  .two-column .rounded-image {
+    grid-column: 1;
+    grid-row: 1;
+  }
 }
