@@ -121,6 +121,19 @@ svg {
   background-color: #5f35d4;
 }
 
+.navigation-hamburger {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .nav-item {
+    display: none;
+  }
+  .navigation-hamburger {
+    display: block;
+  }
+}
+
 /* INTRO */
 
 .two-column {
