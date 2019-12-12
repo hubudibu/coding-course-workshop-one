@@ -72,6 +72,10 @@ footer {
   margin-left: 4px;
 }
 
+.navigation a:hover {
+  text-decoration: underline;
+}
+
 .navigation .logo {
   margin-right: auto;
   margin-left: 0;
