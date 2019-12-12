@@ -46,10 +46,10 @@ img {
 header,
 section,
 footer {
-  padding-top: 40px;
+  padding-top: 100px;
   padding-left: 16px;
   padding-right: 16px;
-  padding-bottom: 40px;
+  padding-bottom: 100px;
 }
 
 .testimonial {
@@ -80,6 +80,7 @@ header {
   background-position: right bottom;
   background-size: cover;
   color: white;
+  padding-top: 60px;
   padding-bottom: 310px;
 }
 
