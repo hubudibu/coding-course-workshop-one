@@ -82,6 +82,14 @@ footer {
   margin-left: 0;
 }
 
+.navigation-contact {
+  background-color: #4bcc8c;
+}
+
+.navigation-contact:hover {
+  background-color: #5f35d4;
+}
+
 /* INTRO */
 
 .two-column {
