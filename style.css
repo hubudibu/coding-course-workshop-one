@@ -83,12 +83,23 @@ header {
   padding-bottom: 310px;
 }
 
+header h1 {
+  color: white;
+  text-align: left;
+}
+
+header p {
+  font-size: 28px;
+  max-width: 550px;
+}
+
 /* NAVIGATION */
 
 .navigation {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  margin-bottom: 175px;
 }
 
 .navigation a {
@@ -109,6 +120,7 @@ header {
   margin-left: 0;
   width: 145px;
   height: 28px;
+  padding: 0;
 }
 
 svg {
